@@ -1,0 +1,33 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "first node-express demo site",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "node meadowlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmpippo/meadowlark.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "demo-site"
+  ],
+  "author": "Andy.Liu <hmpippo@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hmpippo/meadowlark/issues"
+  },
+  "homepage": "https://github.com/hmpippo/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2",
+    "zombie": "^5.0.5"
+  }
+}
