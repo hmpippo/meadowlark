@@ -63,3 +63,6 @@ typings/
 # Editor temp file
 *.bak
 
+# IDE directory/file
+.idea/
+
